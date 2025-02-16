@@ -13,6 +13,16 @@
   }
 }
 
+#content {
+  /* padding: 80px 200px; */
+  width: 100vw;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.rs-steps-horizontal .rs-steps-item-content {
+  text-align: left;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

@@ -1,0 +1,52 @@
+.job-list-container {
+    display: flex;
+    flex-direction: row;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .job-tabs {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+  }
+  
+  .job-tab {
+    padding: 10px;
+    background: none;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    font-size: 1rem;
+    color: #ffffff; 
+    transition: background 0.3s ease;
+  }
+  
+  .job-tab:hover,
+  .job-tab.active {
+    font-weight: bold;
+    border-right: 1px solid #37ffde;
+  }
+  
+  .job-description {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .job-description h2 {
+    margin-top: 0;
+    font-size: 1.5rem;
+  }
+  
+  .job-description h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    display: inline-block;
+    /* padding-bottom: 5px; */
+  }
+  
+  .job-description p {
+    margin: 10px 0;
+    font-size: 1rem;
+  }
