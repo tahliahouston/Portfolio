@@ -17,6 +17,7 @@ class NavBar extends React.Component {
               <Nav.Link as={Link} to="intro" smooth={true} duration={500}>Home</Nav.Link>
               <Nav.Link as={Link} to="about" smooth={true} duration={500}>About</Nav.Link>
               <Nav.Link as={Link} to="experience" smooth={true} duration={500}>Experience</Nav.Link>
+              <Nav.Link as={Link} to="projects" smooth={true} duration={500}>Projects</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>

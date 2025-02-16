@@ -19,7 +19,7 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am currently a <b>Software Developmer</b> at
+        I am currently a <b>Software Developer</b> at
         Oogi Labs, working in the Software Development team. 
         At the same time, I am undertaking a
         part-time <b> Bachelor of Honours Computing </b>at

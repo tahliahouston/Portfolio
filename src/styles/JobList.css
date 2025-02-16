@@ -23,7 +23,10 @@
     transition: background 0.3s ease;
   }
   
-  .job-tab:hover,
+  .job-tab:hover{
+    
+    font-weight: bold;
+  }
   .job-tab.active {
     font-weight: bold;
     border-right: 1px solid #37ffde;
@@ -43,7 +46,6 @@
     margin: 0;
     font-size: 1.2rem;
     display: inline-block;
-    /* padding-bottom: 5px; */
   }
   
   .job-description p {
