@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tahliahouston.github.io/portfolio",
+  "homepage": "https://tahliahouston.github.io/Portfolio",
   "dependencies": {
     "@react-spring/web": "^9.7.5",
     "@testing-library/dom": "^10.4.0",
