@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "Fleet Management App",
-    description: "Fleet Management, allowing users to create vehicles and fl eets.",
+    description: "Fleet Management, allowing users to create vehicles and fleets.",
     languages: ["Dart", "BLoC", "SQL", "C#", "REST API"]
   }
 ];
